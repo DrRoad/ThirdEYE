@@ -69,7 +69,8 @@ Donation:
   
 #### Install all the requirements 
 * > pip install -r requirements.txt  
-the file is inside <i>ThirdEYE/Code/</i>
+
+&nbsp;&nbsp;the file is inside <i>ThirdEYE/Code/</i>
   
 
 ## Directory Structure:   
