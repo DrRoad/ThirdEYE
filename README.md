@@ -59,7 +59,7 @@ Donation:
 4. leave the system running. . .
    
 #### To setup the alert system:
-1. Put your phone number (DND activated) in settings tab
+1. Put your phone number (DND deactivated) in settings tab
 2. Your gmail address
 3. Any Message
 4. [important] Put your gmail and password into the      &nbsp;&nbsp;<i>Code/Alert/loginfile.txt</i> &nbsp;&nbsp;and enable less secure feature in your gmail.
